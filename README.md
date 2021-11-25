@@ -11,7 +11,6 @@
 - 👯  I’m looking to collaborate on <a href="https://github.com/rcasachi/express-ts-boilerplate" blank="target">Express Boilerplate</a>
 - 💬  Ask me about Typescript, Javascript, Remote Work, Productivity and Travel :D
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcasachi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (twitter)
 [2.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (facebook)

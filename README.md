@@ -8,7 +8,7 @@
 
 - 🔭  I’m currently working on <a href="https://github.com/olist" blank="target">olist</a>
 - 🌱  I’m currently learning <a href="https://github.com/nestjs" blank="target">NestJS</a>
-- 👯  I’m looking to collaborate on <a href="https://github.com/rcasachi/express-ts-boilerplate" blank="target">Express Boilerplate</a>
+- 👯  I’m looking to collaborate on <a href="https://github.com/rcasachi/express-ts-boilerplate" blank="target">Express Boilerplate</a> and <a href="https://github.com/rcasachi/fastify-ts-boilerplate" blank="target">Fastify Boilerplate</a>
 - 💬  Ask me about Typescript, Javascript, Remote Work, Productivity and Travel :D
 
 
